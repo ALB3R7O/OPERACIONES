@@ -6,14 +6,14 @@ public class Variables {
 
    
     public static void main(String[] args) {
-   int n1=9, n2=2,divi, resi;
+   int n1=9, n2=2, resta, divi, resi;
    
    
    
+   //resta
+   resta= n1-n2;
    
-   
-   
-    //division
+   //division
    divi= n1/n2;
    
    //residuo
